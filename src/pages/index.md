@@ -2,65 +2,70 @@
 templateKey: index-page
 title: When you wat to be seen
 image: /img/development.jpg
-heading: Get All Eyes On U ... The new media pros
-subheading: Experienced developers with know how
+heading: Heading
+subheading: subheading
 mainpitch:
   title: Why AEOU Development
   description: >-
-    AEOU Development is providing no nonsense access to the latest online
-    solutions. 
+    Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper, nostra
+    magna metus turpis sagittis auctor class, mattis odio sapien dapibus euismod
+    vestibulum facilisis.
 description: >-
-  We leverage 30 years of experience to provide leadership, expertise and
-  developers to media companies all over the world.
+  Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper, nostra
+  magna metus turpis sagittis auctor class, mattis odio sapien dapibus euismod
+  vestibulum facilisis.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/cms-graphic.png
+      text: >-
+        Nec pulvinar ut vivamus luctus vel dis bibendum posuere lacus tellus
+        eros, praesent curae habitant dapibus litora augue neque platea porta
+        hendrerit hac, ac turpis pretium libero himenaeos integer mauris erat
+        aliquet nostra.
+    - image: /img/html-css-js-api.png
+      text: >-
+        Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper,
+        nostra magna metus turpis sagittis auctor class, mattis odio sapien
+        dapibus euismod vestibulum facilisis. 
+    - image: /img/mobile-design.jpeg
+      text: >+
+        Lorem ipsum dolor sit amet consectetur adipiscing elit nullam
+        suspendisse potenti facilisi volutpat netus fringilla, ad rhoncus
+        sodales cursus nam mus turpis class consequat ac convallis placerat est,
+        etiam nec lacus felis torquent ultricies aenean hac nisl urna penatibus
+        non et.
+
+    - image: /img/design-idea-strategy.gif
+      text: >-
+        Primis dapibus mus nascetur dictum potenti facilisis, pretium arcu
+        sollicitudin senectus nullam habitasse ridiculus, condimentum cum
+        posuere feugiat at. Fusce nisl montes hendrerit egestas sapien laoreet
+        aenean, augue netus semper mi vehicula ornare dictumst, facilisis erat
+        cursus donec aliquet turpis. Orci habitant mattis ultricies est lacinia
+        sagittis.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper, nostra
+    magna metus turpis sagittis auctor class, mattis odio sapien dapibus euismod
+    vestibulum facilisis. Nec pulvinar ut vivamus luctus vel dis bibendum
+    posuere lacus tellus eros, praesent curae habitant dapibus litora augue
+    neque platea porta hendrerit hac, ac turpis pretium libero himenaeos integer
+    mauris erat aliquet nostra.
 main:
-  heading: Great coffee with no compromises
+  heading: Heading in main area
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Primis dapibus mus nascetur dictum potenti facilisis, pretium arcu
+    sollicitudin senectus nullam habitasse ridiculus, condimentum cum posuere
+    feugiat at. Fusce nisl montes hendrerit egestas sapien laoreet aenean, augue
+    netus semper mi vehicula ornare dictumst, facilisis erat cursus donec
+    aliquet turpis. Orci habitant mattis ultricies est lacinia sagittis,
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: ALT text
+    image: /img/comp-target.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: ALT text
+    image: /img/ideas.jpeg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: ALT text
+    image: /img/fast.jpeg
 ---
