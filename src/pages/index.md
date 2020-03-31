@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: When you wat to be seen
+title: When you want to be seen
 image: /img/development.jpg
 heading: Heading
 subheading: subheading
