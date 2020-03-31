@@ -44,5 +44,10 @@ full_image: /img/wfh.jpg
 pricing:
   heading: Pricing
   description: We make your life easy with fair pricing. No hidden costs.
-  plans: []
+  plans:
+    - plan: Plan
+      price: Price
+      description: Decription
+      items:
+        - Items
 ---
